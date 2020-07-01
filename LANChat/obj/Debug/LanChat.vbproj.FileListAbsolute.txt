@@ -1,0 +1,34 @@
+C:\Users\Leon\AppData\Local\Temporary Projects\LanChat\bin\Debug\LanChat.exe
+C:\Users\Leon\AppData\Local\Temporary Projects\LanChat\bin\Debug\LanChat.pdb
+C:\Users\Leon\AppData\Local\Temporary Projects\LanChat\bin\Debug\LanChat.xml
+C:\Users\Leon\AppData\Local\Temporary Projects\LanChat\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Leon\AppData\Local\Temporary Projects\LanChat\obj\Debug\LanChat.Form1.resources
+C:\Users\Leon\AppData\Local\Temporary Projects\LanChat\obj\Debug\LanChat.Resources.resources
+C:\Users\Leon\AppData\Local\Temporary Projects\LanChat\obj\Debug\LanChat.vbproj.GenerateResource.Cache
+C:\Users\Leon\AppData\Local\Temporary Projects\LanChat\obj\Debug\LanChat.exe
+C:\Users\Leon\AppData\Local\Temporary Projects\LanChat\obj\Debug\LanChat.xml
+C:\Users\Leon\AppData\Local\Temporary Projects\LanChat\obj\Debug\LanChat.pdb
+C:\Users\Leon\Documents\Visual Studio 2008\Projects\LANChat\LANChat\obj\Debug\LANChat.exe
+C:\Users\Leon\Documents\Visual Studio 2008\Projects\LANChat\LANChat\obj\Debug\LANChat.xml
+C:\Users\Leon\Documents\Visual Studio 2008\Projects\LANChat\LANChat\obj\Debug\LANChat.pdb
+C:\Users\Leon\Documents\Visual Studio 2008\Projects\LANChat\LANChat\bin\Debug\LANChat.exe
+C:\Users\Leon\Documents\Visual Studio 2008\Projects\LANChat\LANChat\bin\Debug\LANChat.pdb
+C:\Users\Leon\Documents\Visual Studio 2008\Projects\LANChat\LANChat\bin\Debug\LANChat.xml
+C:\Users\Leon\Documents\Visual Studio 2008\Projects\LANChat\LANChat\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Leon\Documents\Visual Studio 2008\Projects\LANChat\LANChat\obj\Debug\LanChat.Form1.resources
+C:\Users\Leon\Documents\Visual Studio 2008\Projects\LANChat\LANChat\obj\Debug\LanChat.Resources.resources
+C:\Users\Leon\Documents\Visual Studio 2008\Projects\LANChat\LANChat\obj\Debug\LANChat.vbproj.GenerateResource.Cache
+C:\Users\Leon\Desktop\VB.NET Programs\LANChat\LANChat\obj\Debug\LANChat.exe
+C:\Users\Leon\Desktop\VB.NET Programs\LANChat\LANChat\obj\Debug\LANChat.xml
+C:\Users\Leon\Desktop\VB.NET Programs\LANChat\LANChat\obj\Debug\LANChat.pdb
+C:\Users\Leon\Desktop\LANChat\LANChat\bin\Debug\LANChat.exe
+C:\Users\Leon\Desktop\LANChat\LANChat\bin\Debug\LANChat.pdb
+C:\Users\Leon\Desktop\LANChat\LANChat\bin\Debug\LANChat.xml
+C:\Users\Leon\Desktop\LANChat\LANChat\obj\Debug\LANChat.vbprojAssemblyReference.cache
+C:\Users\Leon\Desktop\LANChat\LANChat\obj\Debug\LanChat.Form1.resources
+C:\Users\Leon\Desktop\LANChat\LANChat\obj\Debug\LanChat.Resources.resources
+C:\Users\Leon\Desktop\LANChat\LANChat\obj\Debug\LANChat.vbproj.GenerateResource.cache
+C:\Users\Leon\Desktop\LANChat\LANChat\obj\Debug\LANChat.vbproj.CoreCompileInputs.cache
+C:\Users\Leon\Desktop\LANChat\LANChat\obj\Debug\LANChat.exe
+C:\Users\Leon\Desktop\LANChat\LANChat\obj\Debug\LANChat.xml
+C:\Users\Leon\Desktop\LANChat\LANChat\obj\Debug\LANChat.pdb
